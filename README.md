@@ -4,7 +4,7 @@
 ### 안녕하세요.
 
  - 🔭 I’m currently working on ... DEPth
- - 🌱 I’m currently learning ... HTML CSS JS REACT TS GIT/GITHUB
+ - 🌱 I’m currently learning ... JAVA, Swift
  - 💬 Ask me about ... 3대 몇
  - ⚡ Fun fact: ... fromis_9을 좋아한다.
 
