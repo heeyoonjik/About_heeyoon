@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HOLA%20WORLD&fontSize=90)
 
+
+<div align="center">
+
+
 ### 안녕하세요👋
 
 - 🔭 I’m currently working on ... DEPth
@@ -36,3 +40,5 @@
   src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"
 />
 
+   
+</div>
