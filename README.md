@@ -37,6 +37,12 @@
 <img
   src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"
 />
+ ### TOOLS
+ <img
+  src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"
+/>
+ 
+ 
+ 
 
-   
 </div>
