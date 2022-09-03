@@ -14,13 +14,10 @@
  - ⚡ Fun fact: ... fromis_9을 좋아한다.
 
 
-  ### 경험해본 기술들.
+ <h1>경험해본 기술들.</h1>
 
 
-<h2>
-  FRONT
-</h2>
-<br />
+  # FRONT
 <img
   src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"
 />
