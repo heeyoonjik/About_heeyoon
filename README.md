@@ -3,10 +3,10 @@
 
 ### 안녕하세요.
 
- - 🔭 I’m currently working on ... DEPth
- - 🌱 I’m currently learning ... JAVA, Swift
- - 💬 Ask me about ... 3대 몇
- - ⚡ Fun fact: ... fromis_9을 좋아한다.
+  🔭 I’m currently working on ... DEPth <br />
+  🌱 I’m currently learning ... JAVA, Swift<br />
+  💬 Ask me about ... 3대 몇<br />
+  ⚡ Fun fact: ... fromis_9을 좋아한다.<br />
 
 
  <h1>경험해본 기술들.</h1>
