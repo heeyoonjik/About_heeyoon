@@ -26,6 +26,6 @@ FRONT
   src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"
 />
 <img
-  src="https://img.shields.io/badge/styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"
+  src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"
 />
 
