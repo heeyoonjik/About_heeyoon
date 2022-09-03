@@ -33,14 +33,14 @@
   src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"
 />
   ### BACK
-  Node.js
+ 
 <img
   src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"
 />
 <img
   src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"
 />
-MongoDB
+
 
 
  ### TOOLS
