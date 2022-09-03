@@ -40,6 +40,10 @@
 <img
   src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"
 />
+ <img
+  src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"
+/>
+
 
 
 
