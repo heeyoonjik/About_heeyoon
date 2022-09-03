@@ -7,6 +7,9 @@
 - 💬 Ask me about ... 3대 몇
 - ⚡ Fun fact: ... fromis_9을 좋아한다.
 
+경험해본 기술들.
+<br />
+
 FRONT
 <br />
 <img
