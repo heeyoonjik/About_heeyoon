@@ -1,12 +1,7 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=HOLA%20WORLD&fontSize=50)
 
-
-
-
-
-### 안녕하세요👋
+### 안녕하세요.
 
  - 🔭 I’m currently working on ... DEPth
  - 🌱 I’m currently learning ... HTML CSS JS REACT TS GIT/GITHUB
