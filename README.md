@@ -1,15 +1,17 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HOLA%20WORLD&fontSize=90)
 
 
-<div align="center">
+
 
 
 ### 안녕하세요👋
 
-- 🔭 I’m currently working on ... DEPth
-- 🌱 I’m currently learning ... HTML CSS JS REACT TS GIT/GITHUB
-- 💬 Ask me about ... 3대 몇
-- ⚡ Fun fact: ... fromis_9을 좋아한다.
+ 🔭 I’m currently working on ... DEPth
+ 🌱 I’m currently learning ... HTML CSS JS REACT TS GIT/GITHUB
+ 💬 Ask me about ... 3대 몇
+ ⚡ Fun fact: ... fromis_9을 좋아한다.
 
 <h1>
   경험해본 기술들.
