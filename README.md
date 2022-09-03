@@ -12,7 +12,9 @@
  </h1>
 <br />
 
-FRONT
+<h2>
+  FRONT
+</h2>
 <br />
 <img
   src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"
