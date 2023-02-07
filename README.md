@@ -1,18 +1,10 @@
 <div align="center">
 
 
-### 안녕하세요.
-
-  🔭 I’m currently working on ... DEPth <br />
-  🌱 I’m currently learning ... JAVA, Swift<br />
-  💬 Ask me about ... 3대 몇<br />
-  ⚡ Fun fact: ... fromis_9을 좋아한다.<br />
+### 안녕하세요 / Hello / Hola
 
 
- <h1>경험해본 기술들.</h1>
-
-
-  ### FRONT
+ <h1>stack</h1>
 <img
   src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"
 />
@@ -32,8 +24,6 @@
 <img
   src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"
 />
-  ### BACK
- 
 <img
   src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"
 />
@@ -43,11 +33,6 @@
  <img
   src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"
 />
-
-
-
-
- ### TOOLS
  <img
   src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"
 />
