@@ -17,7 +17,8 @@ i just want to be free spirit. I will create wealth through my own business.
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 
-## Where I play
+## SNS
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=_yoonyoon_2)](https://velog.io/@heeyoon1302) 
 <!--    <a href="https://yoonstudy.notion.site/"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://yoonstudy.notion.site/"/></a> -->
    <a href="https://www.youtube.com/@user-hu8bn1bo5i/videos"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white&link=https://www.youtube.com/@user-hu8bn1bo5i/videos"/></a>
    
