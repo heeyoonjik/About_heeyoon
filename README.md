@@ -20,6 +20,6 @@ i just want to be free spirit. I will create wealth through my own business.
 ## update
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=heeyoon1302)](https://solved.ac/heeyoon1302/)
    
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=heeyoon1302&color=dark)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=heeyoon1302)](https://github.com/eungyeole/velog-readme-stats)
 
 </div>
