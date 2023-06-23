@@ -1,9 +1,7 @@
 <div align="center">
 
 
-# Hello My bro, Welcom to heeyoon's gitHub
-i just want to be free spirit. I will create wealth through my own business.
-
+# No PronHub, Just GitHub.
 ## SNS
    <a href="https://velog.io/@heeyoon1302"><img src="https://img.shields.io/badge/heeyoon-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@heeyoon1302"/></a>
    <a href="https://www.youtube.com/@user-hu8bn1bo5i/videos"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white&link=https://www.youtube.com/@user-hu8bn1bo5i/videos"/></a>
